@@ -12,3 +12,5 @@
 
 // npm i
 // npm i express body-parser socket.io
+// npm i react-router-dom
+// npm i socket.io-client
